@@ -1,0 +1,29 @@
+{
+  "name": "sentimenjs",
+  "version": "0.0.1",
+  "description": "Calculate And Get Sentiment News Score",
+  "main": "./src/sentiment.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahadiana/sentimenJS.git"
+  },
+  "keywords": [
+    "sentiment",
+    "node"
+  ],
+  "author": "rahadiana nugraha <rahadiana.nugraha@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahadiana/sentimenJS/issues"
+  },
+  "homepage": "https://github.com/rahadiana/sentimenJS#readme",
+  "dependencies": {
+    "sentiment": "^5.0.2"
+  }
+}
