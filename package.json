@@ -1,5 +1,5 @@
 {
-  "name": "sentimenjs",
+  "name": "@rahadiana/sentimenid",
   "version": "0.0.1",
   "description": "Calculate And Get Sentiment News Score",
   "main": "./src/index.js",
