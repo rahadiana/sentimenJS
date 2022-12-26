@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rahadiana/sentimenJS.git"
+    "url": "git+https://github.com/rahadiana/sentimenID.git"
   },
   "keywords": [
     "sentiment",
@@ -20,9 +20,9 @@
   "author": "rahadiana nugraha <rahadiana.nugraha@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rahadiana/sentimenJS/issues"
+    "url": "https://github.com/rahadiana/sentimenID/issues"
   },
-  "homepage": "https://github.com/rahadiana/sentimenJS#readme",
+  "homepage": "https://github.com/rahadiana/sentimenID#readme",
   "dependencies": {
     "sentiment": "^5.0.2"
   }
