@@ -2,7 +2,7 @@
   "name": "sentimenjs",
   "version": "0.0.1",
   "description": "Calculate And Get Sentiment News Score",
-  "main": "./src/sentiment.js",
+  "main": "./src/index.js",
   "directories": {
     "test": "test"
   },
